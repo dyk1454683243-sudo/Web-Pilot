@@ -128,6 +128,8 @@ Everything is configured via environment variables (see [`.env.example`](./.env.
 
 ## 🤝 Contributing
 
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for a quickstart that works **before** the API/dashboard scaffolds are finished.
+
 Contributions are welcome and encouraged — bug fixes, new actions/extractors, planner improvements, docs, tests, UI.
 
 1. Fork the repository and create your branch from `main`.
